@@ -1,0 +1,55 @@
+body {
+  background-color: #fdffba;
+  color: #504444;/* Y1.2 08.50*/
+  font-size: 20px;
+}
+h1 {
+	font-size: 40px; /* Y1.2 10.00*/
+	color: #00aeff;/* Y1.2 14.15  www.color picker*/
+	font-family: monospace;/* Y1.2 10.40*/
+	text-align: center;
+	box-shadow: #3e0094 0px 0px 39px 25px;
+	border-radius: 20px;
+	width: 60%; margin-top: 20px; margin-left: auto; margin-right: auto;
+}
+.redy {
+	color:green;/* Y1.2 13.20*/
+	}
+h2 {
+	text-align: center;
+	}
+.block1 {/* Y1.2 17.00*/
+	 width: 90%; margin: 0 auto; /* Y1.2 17.30*/
+ background-image: url(background28.jpg); /*https://pattern4site.ru/  Y1.2 18.40*/
+ padding: 10px; border: 2px solid rgb(66, 135, 245);/* Y1.2 19.15*/
+ border-radius: 40px; /* Y1.2 19.55*/
+ }
+ b u {
+	 color: rgb(61, 31, 31);/* Y1.2 24.00*/
+ }
+ a{ font-family: Georgia; transition: 1s linear; }/* Y2.1 17.15*/
+ a:link {color: rgb(255, 0, 119)}/* Y2.2 14.00*/
+ /*a:visited {color: #15ff00;} Y2.2 14.00 */
+ a:hover { 
+	 text-decoration: none;/* Y1.2 26.00*/
+	 color: rgb(0, 114, 23);/* Y1.2 26.40*/
+	}
+ img { 
+	 border: 3px solid rgb(0, 78, 25);/*Y2.1 M6.45*/
+	 border-radius: 10px;
+	 transform: scale(1);
+	 transition: 1s all;
+	 box-shadow: red  0px 0px 15px 10px;
+ }
+ img:hover {
+	 transform: scale(1.1);/* Y1.2 27.15*/
+ }
+.fig {
+	text-align: center;
+ }
+ menu { list-style: none; /* Убираем маркеры */ margin: 0 auto;/* Убираем отступы */ }
+ .main-menu {display: block; width: 580px; margin: 0 auto 10px; } /* Y2.1 17.15*/
+ .two menu { background: red; overflow: hidden/*Y2.1 M18.00*/; padding: 0;}
+ .two li { float: left; }/*Y2.1 M18.30*/
+ .two a {display: block; padding: 1em; border-right: 3px solid #ce640d; background: rgb(3, 58, 68)/*Y2.1 M20.20*/; color: #8ba16e;  border-bottom: olivedrab 5px dashed; padding-bottom: 20px;}/* Y2.2 15.30*/
+ .two a:hover {background: rgb(255, 187, 1); }

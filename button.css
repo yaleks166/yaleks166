@@ -1,0 +1,4 @@
+.button {text-decoration: none; display: inline-block; padding: 10px 10px; margin: 0px 20px; font-size: 20px; transition: 2.3s ease-in-out;}/* Y2.2 20.10*/
+.type1 {color: rgb(247, 91, 91); border: 2px;}
+.type2 {color: rgb(97, 35, 35);  border: 5px solid rgb(0, 78, 25); background-color: rgb(201, 98, 2)}
+.type2:hover {color: rgb(0, 78, 25); background: aqua; border-radius: 30px;}
